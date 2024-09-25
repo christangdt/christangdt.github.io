@@ -16,15 +16,13 @@ site:
       uri: /blogs/tech/index.html
     - title: License
       uri: /pages/license/index.html
-    - title: Discuss
-      uri: https://github.com/michaelliao/gitsite/discussions
-      external: true
+
   git:
     base-url: https://github.com/michaelliao/gitsite/blob/main/source
   contact:
-    name: Michael Liao
-    github: https://github.com/michaelliao/gitsite
-    twitter: https://twitter.com/liaoxuefeng
+    name: Chris Tang
+    github: https://github.com/christangdt
+    
   books:
     index-marker: true
   search:
