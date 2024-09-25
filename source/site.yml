@@ -1,7 +1,7 @@
 site:
-  title: GitSite
-  description: GitSite is a static web site generator for Git.
-  keywords: gitsite, git, static web site, html
+  title: Chengnan Math House
+  description: A place to record my math learning
+  keywords: math
   theme: default
   language: en-US
   # set the /<rootPath> pathname under which your site is served
