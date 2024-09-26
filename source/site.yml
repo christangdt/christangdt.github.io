@@ -16,7 +16,9 @@ site:
       uri: /blogs/tech/index.html
     - title: License
       uri: /pages/license/index.html
-
+    - title: Discuss
+      uri: https://github.com/michaelliao/gitsite/discussions
+      external: true
   git:
     base-url: https://github.com/michaelliao/gitsite/blob/main/source
   contact:
