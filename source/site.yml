@@ -1,7 +1,7 @@
 site:
-  title: Chengnan Math House
-  description: A place to record my math learning
-  keywords: math
+  title: GitSite
+  description: GitSite is a static web site generator for Git.
+  keywords: gitsite, git, static web site, html
   theme: default
   language: en-US
   # set the /<rootPath> pathname under which your site is served
@@ -22,9 +22,9 @@ site:
   git:
     base-url: https://github.com/michaelliao/gitsite/blob/main/source
   contact:
-    name: Chris Tang
-    github: https://github.com/christangdt
-    
+    name: Michael Liao
+    github: https://github.com/michaelliao/gitsite
+    twitter: https://twitter.com/liaoxuefeng
   books:
     index-marker: true
   search:
